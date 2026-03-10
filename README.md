@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="assets/IMG_2342.GIF" width = 350px></picture>
+<picture> <img align="right" src="assets/IMG_2342.GIF" width = 320px></picture>
 
 - :school: I am a Computer Systems Engineering student at Tecnológico de Monterrey
 - :technologist: **Currently working on** `Frontend Development`
