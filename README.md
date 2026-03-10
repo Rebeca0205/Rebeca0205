@@ -16,7 +16,7 @@
 - 📍 Based in Mexico
 - :email: Feel free to **reach me out**
 [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Rebe_Davila&amp;color=EA4335&amp;style=flat-square)](mailto:rebedavilaaraiza@gmail.com)
-<a href="www.linkedin.com/in/rebeca-davila-araiza-front-end" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="(https://www.linkedin.com/in/rebeca-davila-araiza-front-end" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 
