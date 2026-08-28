@@ -65,6 +65,17 @@
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+## My projects
+
+1. [CARAS-Landing](https://github.com/Rebeca0205/caras-landing)
+- A static landing page for a news company called CARAS
+2. [Voxflix-Plus](https://github.com/Rebeca0205/VoxFlix-Plus)
+- A Vox-themed streaming service website
+3. [Biblioteca Musical](https://github.com/Rebeca0205/Biblioteca_Musical_V2)
+- A website for searching for songs where you can save them to your own library
+4. [Chatbot](https://github.com/Rebeca0205/ChatBot)
+- A chatbot that can respond to simple questions
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 <table align="left">
