@@ -75,7 +75,7 @@
 - A website for searching for songs where you can save them to your own library
 4. [Chatbot](https://github.com/Rebeca0205/ChatBot)
 - A chatbot that can respond to simple questions
-5. [LandingPage](https://rebeca0205.github.io/LandingPage/)
+5. [LandingPage](https://github.com/Rebeca0205/LandingPage)
 - A static landing page for an events organizer called B&V Events.
 
 
